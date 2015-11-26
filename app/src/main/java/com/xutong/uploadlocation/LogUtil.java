@@ -2,6 +2,7 @@ package com.xutong.uploadlocation;
 
 import android.util.Log;
 
+/*zzhe*/
 public class LogUtil {
     private static final boolean DEBUG = true;
 //exec setprop log.tag.TAG VERBOSE to open log(just this TAG)
